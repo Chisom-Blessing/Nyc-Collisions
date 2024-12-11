@@ -65,13 +65,17 @@ The analysis of contributing factors for accidents, revealed the following top c
 # Key findings and Recommendation
 1. Targeted Safety Improvements in High-Accident Areas
 - Belt Parkway and Other High-Incident Streets: Given that Belt Parkway accounted for 28.51% of total accidents, immediate attention should be given to improving safety measures along this route. Measures such as enhanced signage, better lighting, clearer lane markings, and increased enforcement of traffic laws could be considered. Additionally, infrastructure improvements such as traffic flow management, ramp redesigns, or dedicated lanes for different vehicle types could reduce congestion and accidents.
--**Recommendation**: Conduct a detailed traffic flow and accident investigation on Belt Parkway, Broadway, and Atlantic Avenue to identify specific causes (e.g., poor signage, construction zones, or high traffic volumes) and implement targeted safety improvements.
+
+
+**Recommendation**: Conduct a detailed traffic flow and accident investigation on Belt Parkway, Broadway, and Atlantic Avenue to identify specific causes (e.g., poor signage, construction zones, or high traffic volumes) and implement targeted safety improvements.
 
  2. Addressing High-Risk Times and Days
 - Peak Accident Times: Accidents tend to occur more frequently on Fridays, Wednesdays, and Thursdays around 16:00 hrs (4:00 PM). This correlates with increased traffic volume due to rush hour. Implementing measures such as enhanced traffic management, ramp metering, and public awareness campaigns around these peak times could help mitigate congestion and reduce accidents.
-•	**Recommendation**:
-o	Launch public awareness campaigns reminding drivers to stay alert during peak hours, particularly in the afternoon.
-o	.Increase law enforcement visibility and traffic monitoring during these times to reduce speeding and distracted driving.
-o	Consider adjusting traffic light cycles to better manage congestion during rush hour, particularly at intersections where accidents are more frequent.
+
+
+**Recommendation**:
+- Launch public awareness campaigns reminding drivers to stay alert during peak hours, particularly in the afternoon.
+- Increase law enforcement visibility and traffic monitoring during these times to reduce speeding and distracted driving.
+- Consider adjusting traffic light cycles to better manage congestion during rush hour, particularly at intersections where accidents are more frequent.
 
 
