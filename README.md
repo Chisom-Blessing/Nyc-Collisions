@@ -1,2 +1,2 @@
 # Nyc-Collisions
-![](nyc_image.png)
+![](https://github.com/Chisom-Blessing/Nyc-Collisions/blob/main/nyc_image.jpg)
