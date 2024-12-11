@@ -54,6 +54,8 @@ When analyzing accidents based on location, the following streets recorded the h
 - Long Island: 2,165 accidents (16.56%)
 - Brooklyn Queens: 2,159 accidents (16.51%). Belt Parkway was identified as the street with the highest number of accidents, contributing a significant 28.51% of the total incidents. This high frequency may be due to factors such as heavy traffic, complex road conditions, or congestion. Further investigation into road safety measures on this street could be beneficial.
 
+![](street.png)
+
 4. Most Common Contributing Factors for Accidents and Fatalities
 The analysis of contributing factors for accidents, revealed the following top causes:
 - Unspecified causes: 59,549 accidents
@@ -62,6 +64,7 @@ The analysis of contributing factors for accidents, revealed the following top c
 - Following too closely: 15,519 accidents
 - Improper passing or lane usage: 10,733 accidents. The most common contributing factor for accidents was unspecified causes, followed closely by driver inattention/distraction, which highlights the significant role human error plays in accidents. These findings emphasize the importance of addressing driver behavior, such as distractions and inattention, in efforts to reduce accidents.
 
+![](factor.png)
 # Key findings and Recommendation
 1. Targeted Safety Improvements in High-Accident Areas
 - Belt Parkway and Other High-Incident Streets: Given that Belt Parkway accounted for 28.51% of total accidents, immediate attention should be given to improving safety measures along this route. Measures such as enhanced signage, better lighting, clearer lane markings, and increased enforcement of traffic laws could be considered. Additionally, infrastructure improvements such as traffic flow management, ramp redesigns, or dedicated lanes for different vehicle types could reduce congestion and accidents.
