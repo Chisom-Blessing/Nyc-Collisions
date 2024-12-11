@@ -21,32 +21,35 @@ By providing a clear understanding of when, where, and why accidents occur most 
 
 Here are the answers to the problem statement are the analysis done:
 
-1. Comparison of Total Accidents by Month and Seasonal Patterns
+1. **Comparison of Total Accidents by Month and Seasonal Patterns**:
 Based on the analysis of accident data across different months, the following trends were observed. Top 5 months with the highest accident counts:
 - March: 25,099 accidents
 - January: 23,024 accidents
 - February: 21,207 accidents
 - June: 20,079 accidents
-- May: 19,749 accidents
+- May: 19,749 accidents.
 In terms of seasonal breakdown:
 - Spring (March, April, May) exhibited the highest accident frequency, accounting for 26.86% of all reported accidents.
 - Winter (December, January, February) followed with 25.66% of the total accidents.
 - Summer (June, July, August) contributed 24.22%, while Fall (September, October, November) represented 23.26% of the total incidents. This data suggests that spring, particularly March, sees a peak in accidents, which could be attributed to factors like weather transitions, increased travel activity, or other seasonal variables.
 
+
 ![](month.png)
+
 
 ![](season.png)
 
-2. Accident Frequency by Day of the Week and Hour of the Day
+2. **Accident Frequency by Day of the Week and Hour of the Day**:
 Further analysis reveals the following insights regarding accident frequencies by day of the week and hour. The most frequent accidents occurred on the following days:
 - Friday: 2,447 accidents
 - Wednesday: 2,379 accidents
 - Thursday: 2,314 accidents. In terms of timing, the majority of accidents occurred at 16:00 hrs (4:00 PM) across these days.
 This pattern suggests that accidents are most frequent during weekday afternoons, particularly as traffic congestion peaks around rush hour. This could be linked to factors such as increased driver fatigue, distractions, and high vehicle volume during this time.
 
+
 ![](hour.png) 
 
-3. Accident Frequency by Street
+3. **Accident Frequency by Street**:
 When analyzing accidents based on location, the following streets recorded the highest number of incidents:
 - Belt Parkway: 3,728 accidents (28.51% of total accidents)
 - Broadway: 2,794 accidents (21.37%)
@@ -54,9 +57,10 @@ When analyzing accidents based on location, the following streets recorded the h
 - Long Island: 2,165 accidents (16.56%)
 - Brooklyn Queens: 2,159 accidents (16.51%). Belt Parkway was identified as the street with the highest number of accidents, contributing a significant 28.51% of the total incidents. This high frequency may be due to factors such as heavy traffic, complex road conditions, or congestion. Further investigation into road safety measures on this street could be beneficial.
 
+
 ![](street.png)
 
-4. Most Common Contributing Factors for Accidents and Fatalities
+4. **Most Common Contributing Factors for Accidents and Fatalities**
 The analysis of contributing factors for accidents, revealed the following top causes:
 - Unspecified causes: 59,549 accidents
 - Driver inattention/distraction: 58,308 accidents
@@ -64,16 +68,23 @@ The analysis of contributing factors for accidents, revealed the following top c
 - Following too closely: 15,519 accidents
 - Improper passing or lane usage: 10,733 accidents. The most common contributing factor for accidents was unspecified causes, followed closely by driver inattention/distraction, which highlights the significant role human error plays in accidents. These findings emphasize the importance of addressing driver behavior, such as distractions and inattention, in efforts to reduce accidents.
 
+
 ![](factor.png)
+
+# My Dashboard
+
+![](dashboard.png)
+
+
 # Key findings and Recommendation
 
-1. Targeted Safety Improvements in High-Accident Areas
+1. **Targeted Safety Improvements in High-Accident Areas**
 - Belt Parkway and Other High-Incident Streets: Given that Belt Parkway accounted for 28.51% of total accidents, immediate attention should be given to improving safety measures along this route. Measures such as enhanced signage, better lighting, clearer lane markings, and increased enforcement of traffic laws could be considered. Additionally, infrastructure improvements such as traffic flow management, ramp redesigns, or dedicated lanes for different vehicle types could reduce congestion and accidents.
 
 
 **Recommendation**: Conduct a detailed traffic flow and accident investigation on Belt Parkway, Broadway, and Atlantic Avenue to identify specific causes (e.g., poor signage, construction zones, or high traffic volumes) and implement targeted safety improvements.
 
- 2. Addressing High-Risk Times and Days
+ 2. **Addressing High-Risk Times and Days**
 - Peak Accident Times: Accidents tend to occur more frequently on Fridays, Wednesdays, and Thursdays around 16:00 hrs (4:00 PM). This correlates with increased traffic volume due to rush hour. Implementing measures such as enhanced traffic management, ramp metering, and public awareness campaigns around these peak times could help mitigate congestion and reduce accidents.
 
 
@@ -82,7 +93,7 @@ The analysis of contributing factors for accidents, revealed the following top c
 - Increase law enforcement visibility and traffic monitoring during these times to reduce speeding and distracted driving.
 - Consider adjusting traffic light cycles to better manage congestion during rush hour, particularly at intersections where accidents are more frequent.
 
-4. Mitigating Human Factors (Inattention/Distraction)
+4. **Mitigating Human Factors (Inattention/Distraction)**
  Driver Inattention and Distraction: With driver inattention/distraction being the second most common contributing factor to accidents (58,308 incidents), it is crucial to tackle this issue to reduce collisions.
 
 
@@ -90,14 +101,14 @@ The analysis of contributing factors for accidents, revealed the following top c
 - Increase the visibility and enforcement of laws regarding the use of mobile phones and other distractions while driving.
 - Implement or expand programs aimed at improving driver education, particularly about the dangers of distracted driving. These programs could include virtual reality simulators to demonstrate real-time consequences of distractions.
 
-5. Enhancing Data Collection and Analysis
+5. **Enhancing Data Collection and Analysis**
  Unspecified Causes: A large number of accidents are categorized under unspecified causes (59,549 accidents), indicating potential gaps in data collection or categorization. Accurate data is essential for targeted safety interventions.
 
 
 **Recommendation**:
 o	Improve data collection methods to ensure that all accidents are classified correctly, and contributing factors are accurately documented. This could involve more granular reporting fields or improved accident investigation protocols.
 
-6. Public Awareness and Education Campaigns
+6. **Public Awareness and Education Campaigns**
  Driver Education: In addition to addressing distracted driving, education on proper following distances, failure to yield and lane usage can reduce the frequency of common contributing factors.
 
  
@@ -106,7 +117,7 @@ o	Improve data collection methods to ensure that all accidents are classified co
  - Promote safe driving practices in high-risk areas and encourage local community engagement in spreading road safety awareness.
 
 
-7. Fatality Prevention and Focus on High-Risk Drivers
+7. **Fatality Prevention and Focus on High-Risk Drivers**
 •	Fatal Accidents: While the number of fatal accidents is low in comparison to total accidents (1,236 fatalities), these incidents remain a critical concern. Focus should be placed on high-risk drivers, such as those involved in speeding, driving under the influence, or reckless driving.
 
  
