@@ -6,13 +6,13 @@ The dataset used in this analysis includes detailed information on the frequency
 This document will outline the methodology used to process and analyze the data, present the key findings, and provide actionable recommendations based on the insights derived from the analysis. 
 By providing a clear understanding of when, where, and why accidents occur most frequently, this analysis offers valuable insights for both public safety efforts and traffic management strategies in New York City.
 
-##PROBLEM STATEMENT
+##**PROBLEM STATEMENT**
 1.	Compare the % of total accidents by month. Do you notice any seasonal patterns?
 2.	 Break down accident frequency by day of week and hour of day. Based on this data, when do accidents occur most frequently? 
 3.	 On which particular street were the most accidents reported? What does that represent as a % of all reported accidents? 
 4.	 What was the most common contributing factor for the accidents reported in this sample (based on Vehicle 1)? What about fatal accidents specifically?
 
-##DATA MODEL
+##**DATA MODEL**
 ![](model.png)
 
 ##ANALYSIS
@@ -30,4 +30,4 @@ In terms of seasonal breakdown:
 •	Winter (December, January, February) followed with 25.66% of the total accidents.
 •	Summer (June, July, August) contributed 24.22%, while Fall (September, October, November) represented 23.26% of the total incidents.
 This data suggests that spring, particularly March, sees a peak in accidents, which could be attributed to factors like weather transitions, increased travel activity, or other seasonal variables.
-![](month.png)
+![](month.png)                                     ![](season.png)
