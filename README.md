@@ -31,20 +31,17 @@ Based on the analysis of accident data across different months, the following tr
 In terms of seasonal breakdown:
 - Spring (March, April, May) exhibited the highest accident frequency, accounting for 26.86% of all reported accidents.
 - Winter (December, January, February) followed with 25.66% of the total accidents.
-- Summer (June, July, August) contributed 24.22%, while Fall (September, October, November) represented 23.26% of the total incidents.
-This data suggests that spring, particularly March, sees a peak in accidents, which could be attributed to factors like weather transitions, increased travel activity, or other seasonal variables.
+- Summer (June, July, August) contributed 24.22%, while Fall (September, October, November) represented 23.26% of the total incidents. This data suggests that spring, particularly March, sees a peak in accidents, which could be attributed to factors like weather transitions, increased travel activity, or other seasonal variables.
 
 ![](month.png)
 
 ![](season.png)
 
 2. Accident Frequency by Day of the Week and Hour of the Day
-Further analysis reveals the following insights regarding accident frequencies by day of the week and hour:
-•	The most frequent accidents occurred on the following days:
+Further analysis reveals the following insights regarding accident frequencies by day of the week and hour. The most frequent accidents occurred on the following days:
 - Friday: 2,447 accidents
 - Wednesday: 2,379 accidents
-- Thursday: 2,314 accidents
-In terms of timing, the majority of accidents occurred at 16:00 hrs (4:00 PM) across these days.
+- Thursday: 2,314 accidents. In terms of timing, the majority of accidents occurred at 16:00 hrs (4:00 PM) across these days.
 This pattern suggests that accidents are most frequent during weekday afternoons, particularly as traffic congestion peaks around rush hour. This could be linked to factors such as increased driver fatigue, distractions, and high vehicle volume during this time.
 
 ![](hour.png)
