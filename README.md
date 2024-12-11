@@ -7,15 +7,18 @@ This document will outline the methodology used to process and analyze the data,
 By providing a clear understanding of when, where, and why accidents occur most frequently, this analysis offers valuable insights for both public safety efforts and traffic management strategies in New York City.
 
 ##**PROBLEM STATEMENT**
+
 1.	Compare the % of total accidents by month. Do you notice any seasonal patterns?
 2.	 Break down accident frequency by day of week and hour of day. Based on this data, when do accidents occur most frequently? 
 3.	 On which particular street were the most accidents reported? What does that represent as a % of all reported accidents? 
 4.	 What was the most common contributing factor for the accidents reported in this sample (based on Vehicle 1)? What about fatal accidents specifically?
 
 ##**DATA MODEL**
+
 ![](model.png)
 
-##ANALYSIS
+##**ANALYSIS**
+
 Here are the answers to the problem statement are the analysis done:
 1. Comparison of Total Accidents by Month and Seasonal Patterns
 Based on the analysis of accident data across different months, the following trends were observed:
@@ -30,5 +33,17 @@ In terms of seasonal breakdown:
 •	Winter (December, January, February) followed with 25.66% of the total accidents.
 •	Summer (June, July, August) contributed 24.22%, while Fall (September, October, November) represented 23.26% of the total incidents.
 This data suggests that spring, particularly March, sees a peak in accidents, which could be attributed to factors like weather transitions, increased travel activity, or other seasonal variables.
+
 ![](month.png)
+
 ![](season.png)
+
+2. Accident Frequency by Day of the Week and Hour of the Day
+Further analysis reveals the following insights regarding accident frequencies by day of the week and hour:
+•	The most frequent accidents occurred on the following days:
+1.	Friday: 2,447 accidents
+2.	Wednesday: 2,379 accidents
+3.	Thursday: 2,314 accidents
+In terms of timing, the majority of accidents occurred at 16:00 hrs (4:00 PM) across these days.
+This pattern suggests that accidents are most frequent during weekday afternoons, particularly as traffic congestion peaks around rush hour. This could be linked to factors such as increased driver fatigue, distractions, and high vehicle volume during this time.
+![](hour.png)
