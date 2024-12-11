@@ -20,14 +20,15 @@ Here are the answers to the problem statement are the analysis done:
 1. Comparison of Total Accidents by Month and Seasonal Patterns
 Based on the analysis of accident data across different months, the following trends were observed:
 •	Top 5 months with the highest accident counts:
-o	March: 25,099 accidents
-o	January: 23,024 accidents
-o	February: 21,207 accidents
-o	June: 20,079 accidents
-o	May: 19,749 accidents
+    	  March: 25,099 accidents
+        January: 23,024 accidents
+        February: 21,207 accidents
+    	  June: 20,079 accidents
+        May: 19,749 accidents
 In terms of seasonal breakdown:
 •	Spring (March, April, May) exhibited the highest accident frequency, accounting for 26.86% of all reported accidents.
 •	Winter (December, January, February) followed with 25.66% of the total accidents.
 •	Summer (June, July, August) contributed 24.22%, while Fall (September, October, November) represented 23.26% of the total incidents.
 This data suggests that spring, particularly March, sees a peak in accidents, which could be attributed to factors like weather transitions, increased travel activity, or other seasonal variables.
-![](month.png)                                     ![](season.png)
+![](month.png)
+![](season.png)
