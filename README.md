@@ -15,7 +15,7 @@ By providing a clear understanding of when, where, and why accidents occur most 
 
 # Data model
 
-![](model.png)
+![](https://github.com/Chisom-Blessing/Nyc-Collisions/blob/main/model_view.png)
 
 # Analysis
 
