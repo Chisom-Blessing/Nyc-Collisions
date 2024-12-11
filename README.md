@@ -6,16 +6,16 @@ The dataset used in this analysis includes detailed information on the frequency
 This document will outline the methodology used to process and analyze the data, present the key findings, and provide actionable recommendations based on the insights derived from the analysis. 
 By providing a clear understanding of when, where, and why accidents occur most frequently, this analysis offers valuable insights for both public safety efforts and traffic management strategies in New York City.
 
-#PROBLEM STATEMENT
+##PROBLEM STATEMENT
 1.	Compare the % of total accidents by month. Do you notice any seasonal patterns?
 2.	 Break down accident frequency by day of week and hour of day. Based on this data, when do accidents occur most frequently? 
 3.	 On which particular street were the most accidents reported? What does that represent as a % of all reported accidents? 
 4.	 What was the most common contributing factor for the accidents reported in this sample (based on Vehicle 1)? What about fatal accidents specifically?
 
-#DATA MODEL
+##DATA MODEL
 ![](model.png)
 
-#ANALYSIS
+##ANALYSIS
 Here are the answers to the problem statement are the analysis done:
 1. Comparison of Total Accidents by Month and Seasonal Patterns
 Based on the analysis of accident data across different months, the following trends were observed:
