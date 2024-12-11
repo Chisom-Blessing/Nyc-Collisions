@@ -20,18 +20,18 @@ By providing a clear understanding of when, where, and why accidents occur most 
 # Analysis
 
 Here are the answers to the problem statement are the analysis done:
+
 1. Comparison of Total Accidents by Month and Seasonal Patterns
-Based on the analysis of accident data across different months, the following trends were observed:
-•	Top 5 months with the highest accident counts:
-    	  March: 25,099 accidents
-        January: 23,024 accidents
-        February: 21,207 accidents
-    	  June: 20,079 accidents
-        May: 19,749 accidents
+Based on the analysis of accident data across different months, the following trends were observed. Top 5 months with the highest accident counts:
+- March: 25,099 accidents
+- January: 23,024 accidents
+- February: 21,207 accidents
+- June: 20,079 accidents
+- May: 19,749 accidents
 In terms of seasonal breakdown:
-•	Spring (March, April, May) exhibited the highest accident frequency, accounting for 26.86% of all reported accidents.
-•	Winter (December, January, February) followed with 25.66% of the total accidents.
-•	Summer (June, July, August) contributed 24.22%, while Fall (September, October, November) represented 23.26% of the total incidents.
+- Spring (March, April, May) exhibited the highest accident frequency, accounting for 26.86% of all reported accidents.
+- Winter (December, January, February) followed with 25.66% of the total accidents.
+- Summer (June, July, August) contributed 24.22%, while Fall (September, October, November) represented 23.26% of the total incidents.
 This data suggests that spring, particularly March, sees a peak in accidents, which could be attributed to factors like weather transitions, increased travel activity, or other seasonal variables.
 
 ![](month.png)
@@ -41,9 +41,10 @@ This data suggests that spring, particularly March, sees a peak in accidents, wh
 2. Accident Frequency by Day of the Week and Hour of the Day
 Further analysis reveals the following insights regarding accident frequencies by day of the week and hour:
 •	The most frequent accidents occurred on the following days:
-1.	Friday: 2,447 accidents
-2.	Wednesday: 2,379 accidents
-3.	Thursday: 2,314 accidents
+- Friday: 2,447 accidents
+- Wednesday: 2,379 accidents
+- Thursday: 2,314 accidents
 In terms of timing, the majority of accidents occurred at 16:00 hrs (4:00 PM) across these days.
 This pattern suggests that accidents are most frequent during weekday afternoons, particularly as traffic congestion peaks around rush hour. This could be linked to factors such as increased driver fatigue, distractions, and high vehicle volume during this time.
+
 ![](hour.png)
