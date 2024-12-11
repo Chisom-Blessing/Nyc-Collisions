@@ -44,4 +44,34 @@ Further analysis reveals the following insights regarding accident frequencies b
 - Thursday: 2,314 accidents. In terms of timing, the majority of accidents occurred at 16:00 hrs (4:00 PM) across these days.
 This pattern suggests that accidents are most frequent during weekday afternoons, particularly as traffic congestion peaks around rush hour. This could be linked to factors such as increased driver fatigue, distractions, and high vehicle volume during this time.
 
-![](hour.png)
+![](hour.png) 
+
+3. Accident Frequency by Street
+When analyzing accidents based on location, the following streets recorded the highest number of incidents:
+- Belt Parkway: 3,728 accidents (28.51% of total accidents)
+- Broadway: 2,794 accidents (21.37%)
+- Atlantic Avenue: 2,230 accidents (17.05%)
+- Long Island: 2,165 accidents (16.56%)
+- Brooklyn Queens: 2,159 accidents (16.51%). Belt Parkway was identified as the street with the highest number of accidents, contributing a significant 28.51% of the total incidents. This high frequency may be due to factors such as heavy traffic, complex road conditions, or congestion. Further investigation into road safety measures on this street could be beneficial.
+
+4. Most Common Contributing Factors for Accidents and Fatalities
+The analysis of contributing factors for accidents, revealed the following top causes:
+- Unspecified causes: 59,549 accidents
+- Driver inattention/distraction: 58,308 accidents
+- Failure to yield right of way: 16,555 accidents
+- Following too closely: 15,519 accidents
+- Improper passing or lane usage: 10,733 accidents. The most common contributing factor for accidents was unspecified causes, followed closely by driver inattention/distraction, which highlights the significant role human error plays in accidents. These findings emphasize the importance of addressing driver behavior, such as distractions and inattention, in efforts to reduce accidents.
+
+# Key findings and Recommendation
+1. Targeted Safety Improvements in High-Accident Areas
+- Belt Parkway and Other High-Incident Streets: Given that Belt Parkway accounted for 28.51% of total accidents, immediate attention should be given to improving safety measures along this route. Measures such as enhanced signage, better lighting, clearer lane markings, and increased enforcement of traffic laws could be considered. Additionally, infrastructure improvements such as traffic flow management, ramp redesigns, or dedicated lanes for different vehicle types could reduce congestion and accidents.
+-**Recommendation**: Conduct a detailed traffic flow and accident investigation on Belt Parkway, Broadway, and Atlantic Avenue to identify specific causes (e.g., poor signage, construction zones, or high traffic volumes) and implement targeted safety improvements.
+
+ 2. Addressing High-Risk Times and Days
+- Peak Accident Times: Accidents tend to occur more frequently on Fridays, Wednesdays, and Thursdays around 16:00 hrs (4:00 PM). This correlates with increased traffic volume due to rush hour. Implementing measures such as enhanced traffic management, ramp metering, and public awareness campaigns around these peak times could help mitigate congestion and reduce accidents.
+•	**Recommendation**:
+o	Launch public awareness campaigns reminding drivers to stay alert during peak hours, particularly in the afternoon.
+o	.Increase law enforcement visibility and traffic monitoring during these times to reduce speeding and distracted driving.
+o	Consider adjusting traffic light cycles to better manage congestion during rush hour, particularly at intersections where accidents are more frequent.
+
+
