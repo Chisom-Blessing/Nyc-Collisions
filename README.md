@@ -13,6 +13,9 @@ By providing a clear understanding of when, where, and why accidents occur most 
 3.	 On which particular street were the most accidents reported? What does that represent as a % of all reported accidents? 
 4.	 What was the most common contributing factor for the accidents reported in this sample (based on Vehicle 1)? What about fatal accidents specifically?
 
+# Tools and Data source
+Tools: Power BI,  DAX
+Data source: nyc collision data set was provided by Digitaley drive cohort team
 # Data model
 
 ![](https://github.com/Chisom-Blessing/Nyc-Collisions/blob/main/model_view.png)
