@@ -1,6 +1,8 @@
 # Nyc-Collisions
 ![](https://github.com/Chisom-Blessing/Nyc-Collisions/blob/main/nyc_image.jpg)
+
 # Introduction
+
 This project aims to provide an in-depth analysis of traffic collision data in **New York City**, using advanced data visualization techniques in Power BI. By exploring accident patterns across various dimensions such as month, day of the week, time of day, and location, this analysis seeks to uncover key trends that can inform safety measures and help reduce traffic-related incidents.
 The dataset used in this analysis includes detailed information on the frequency of accidents, contributing factors, and accident severity (injuries and fatalities). The goal is to identify patterns that can be leveraged to make data-driven decisions, improve road safety, and guide targeted interventions by policymakers and city planners.
 This document will outline the methodology used to process and analyze the data, present the key findings, and provide actionable recommendations based on the insights derived from the analysis. 
@@ -13,36 +15,39 @@ By providing a clear understanding of when, where, and why accidents occur most 
 3.	 On which particular street were the most accidents reported? What does that represent as a % of all reported accidents? 
 4.	 What was the most common contributing factor for the accidents reported in this sample (based on Vehicle 1)? What about fatal accidents specifically?
 
-# Tools and Data source
-- Tools: Power BI,  DAX
-- Data source: nyc collision data set was provided by Digitaley drive cohort team
 
 # Methodology
+
 The methodology for this NYC Collision Analysis project involves several key steps, including data acquisition, data preprocessing, analysis, and visualization. Below is a detailed breakdown of each step:
+
+
 1.  **Data Collection**
-The dataset used for this analysis was obtained from Digitaley drive cohort team as a capstone project for assesment, which provides comprehensive information on traffic collisions in New York City. The dataset includes variables such as:
+The dataset used for this analysis was obtained from Digitaley drive cohort team as a capstone project for my assesment, which provides comprehensive information on traffic collisions in New York City. The dataset includes variables such as:
 - collision ID
 - Accident date and time
 - Location (street, longtitude, latitude and Borough)
 - Contributing factors (e.g., distracted driving, failure to yield ROW, and so on)
 - Accident severity (injuries, fatalities)
 
+
  2. **Data Cleaning and Preprocessing**
 The dataset was cleaned and preprocessed to ensure accuracy and consistency:
 - Missing values:  identified and handled missing or incomplete data entries. Missing values in the contributing factors, street name, borough and were all replaced with unspecified 
 - Data normalization: standardized date and time formats was done using DAX expression to group the season, hour,month of the year and days of the week.
-- Categorization: Accident types were categorized to facilitate easier analysis. For instance, person killed, pedestrian killed, cyclist killed, motorist killed time of day was split into hourly intervals, and contributing factors were grouped into broader categories like "driver inattention" or "weather conditions."
-4. Data Analysis
+- Categorization: Accident types were categorized to facilitate easier analysis. For instance, person killed, pedestrian killed, cyclist killed, motorist killed were sumed up using a measure to give total killed reported(1,236), persons injured, cyclist injured, pedestrians injured, motorist injury were also sum up using measure to give total injured reported(227,463).
+
+  
+3. **Data Analysis**
 The primary aim of the analysis was to identify trends and correlations that could provide insights into when and where accidents are most likely to occur. This involved:
-•	Accident frequency analysis: We analyzed the distribution of accidents by month, day of the week, hour of the day, and location (street). This helped identify seasonal patterns, peak accident times, and high-risk areas in the city.
-•	Contributing factors analysis: We examined the most common causes of accidents based on Vehicle 1 data (e.g., driver inattention, failure to yield, unspecified causes). This helped to determine the primary human and environmental factors influencing accident rates.
-•	Fatal accidents analysis: We conducted a separate analysis for fatal accidents, identifying the contributing factors that most commonly led to severe outcomes.
-5. Data Visualization
+- 	Accident frequency analysis: Analyzed the distribution of accidents by month, day of the week, hour of the day, and location (street). This helped identify seasonal patterns, peak accident times, and high-risk areas in the city.
+- 	Contributing factors analysis: Examined the most common causes of accidents. This helped to determine the primary human and environmental factors influencing accident rates.
+
+
+4. **Data Visualization**
 We used Power BI to create interactive visualizations that allowed for an intuitive exploration of the accident data. Key visualizations included:
-•	Monthly accident trends: A line graph showing the frequency of accidents by month, highlighting peak periods.
-•	Accidents by day of the week: A bar chart to display which days of the week had the highest accident rates.
-•	Accidents by time of day: Heatmaps showing accident concentration at specific hours.
-•	Geospatial analysis: Interactive maps pinpointing high-accident locations across New York City, helping to identify accident-prone streets and intersections.
+- Monthly accident trends: A line graph showing the frequency of accidents by month, highlighting peak periods.
+- Accidents by day of the week and hour of the day: A bar chart to display which days of the week and hour of the day had the highest accident rates.
+- Accidents by contributing factor: A bar chart to display the highest contributing factor. 
 
   
 # Data model
